@@ -1,0 +1,35 @@
+h2 {
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    color: yellow;
+    font-size: 1.5em;
+}
+h3 {
+    font-family: "Raleway", sans-serif;
+    color: yellow;
+    font-size: 1em;
+}
+h4 {
+    font-family: "Raleway", sans-serif;
+    color: white;
+    font-size: 1em;
+}
+body {
+    background-image: url('https://i.pinimg.com/originals/f3/26/cd/f326cd8b7633e8080e59eb81b7854c54.gif');
+    background-size: cover;
+    height: 150vh;
+    padding: 2em;
+    margin: 0;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+img {
+    border-style: solid;
+    border-width: 4px;
+    border-color: white;
+    border-radius: 30px;
+}
